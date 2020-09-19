@@ -1,7 +1,10 @@
-package edu.chd.sunjing.ch1;
+﻿package edu.chd.sunjing.ch1;
 
 import java.util.Scanner;
-
+/*
+算法问题一：
+题目描述：书从1页到n页，统计0到9出现的次数
+ */
 public class CountBookNum {
     private static int[] res = new int[10];
     public static void main(String[] args) {
